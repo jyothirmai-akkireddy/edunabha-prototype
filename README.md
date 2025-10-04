@@ -85,7 +85,4 @@ Edunabha is a robust prototype that demonstrates the potential of modern web tec
 
 We sincerely apologize for the delay in updating the course names. The titles currently displayed are placeholders used during early development stages. We recognize that accurate course names are vital for user clarity and engagement, and we are actively working to update them promptly to accurately reflect the academic content offered.
 
-This version represents an early-stage prototype and foundational platform. Plans are underway to improve visual design, expand voice commands, enrich multimedia content, and enhance user experience. We appreciate your understanding and patience as Edunabha evolves into a polished, beautiful, and effective digital learning environment for rural colleges.
-
-This document can now be used for your project MVP presentation and stakeholder communications.
 
